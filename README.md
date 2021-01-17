@@ -4,4 +4,4 @@ Unlike the original, its source code doesn't compose a torus shape. However, it 
 
 Just like `donut.c`, if executed in ANSI or VT100 mode, it will produce the following result:
 
-![](donut.gif)
+![Rendered output in VT100 PowerShell](donut.gif)
